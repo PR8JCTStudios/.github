@@ -7,6 +7,12 @@ FiveM developers and designers who are passionate about supplying high-quality r
 <br>
 <br>
 
+## Current Members
+
+- Carmomeister
+- Mackab
+
+
 ## Current Projects
 - [x] Setup Github
 - [ ] PR8JCT Website
