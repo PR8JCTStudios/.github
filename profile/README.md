@@ -1,10 +1,10 @@
 ![PR8JCT Banner](https://github.com/PR8JCTStudios/.github/assets/89382232/0d9bc240-a33c-4047-8e41-3e99682a7246)
 
 # PR8JCT
-FiveM developers and designers who are passionate about supplying high-quality resources.
+PR8JCT is a dynamic and imaginative development team that began by focusing on developing immersive and beautiful apparel for use on the Quantum Roleplay server on GTARP. Our adventure began with a desire to provide the FiveM community with unique and high-quality virtual fashion experiences.
 
-<br>
-<br>
+PR8JCT is expanding its boundaries beyond the virtual wardrobe as we march decisively towards 2024. Embracing the ever-changing digital landscape, we are branching out into Front End Development. Our aim is to produce innovative solutions for a wide range of projects by effortlessly blending creativity and functionality.
+
 <br>
 
 ## Current Members
